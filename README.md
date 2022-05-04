@@ -12,3 +12,7 @@ This repos contains the following code:
 6. `pycutest_for_trophy` folder: python interface to CUTEst test set with changes made to accomodate multiple precisions. 
 7. `plotting_for_problems_by_iteration.ipynb`: Jupyter notebook generating plots used in dissertation. 
 
+----
+
+Since there is considerable overhead getting the pycutest set up and running as well as building the problems using `pycutest_for_trophy`, it might be worthwhile to use a readily available function handle in  `run_single_problem` and drop the use of the TROPHY algorithm. I will try adding instructions here in the coming days concerning how to build the problems used in my disseration. 
+
